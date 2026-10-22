@@ -1,4 +1,4 @@
-# Lule Robot — Next.js + SQLite
+# Robo do Lula — Next.js + SQLite
 
 Migração do dashboard Streamlit e do monitor RSS Python para Next.js, React e Node.js.
 
