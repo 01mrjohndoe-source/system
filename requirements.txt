@@ -1,0 +1,5 @@
+
+robotframework
+robotframework-browser[bb]
+requests
+feedparser
